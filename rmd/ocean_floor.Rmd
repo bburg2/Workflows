@@ -2,7 +2,7 @@
 title: "Visualizing the ocean floor"
 output: html_document
 params:
-  data: ""
+  data: "hawaii"
 ---
 
 ```{r include = FALSE}
